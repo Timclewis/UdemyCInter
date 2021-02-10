@@ -6,8 +6,9 @@ namespace Extensibility
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            
+            //var dbMigrator = new DbMigrator(new FileLogger("/Users/timothylewis/Documents/TimPractice/log.txt"));
+            var dbMigrator = new DbMigrator(new ConsoleLogger());
+            dbMigrator.Migrate();          
         }
     }
 }

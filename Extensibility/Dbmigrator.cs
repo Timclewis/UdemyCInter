@@ -1,6 +1,6 @@
 ﻿using System;
 namespace Extensibility
-{
+{   
     public class DbMigrator
     {
         private readonly ILogger _logger;
@@ -12,11 +12,12 @@ namespace Extensibility
 
         public void Migrate()
         {
-            Console.WriteLine("Migration started at {0}", DateTime.Now);
+            _logger.LogInfo("Migration started at " + DateTime.Now);
 
             // details of migrating database
 
-            Console.WriteLine("Migration finished at {0}", DateTime.Now);
+            _logger.LogInfo("Migration finished at " + DateTime.Now);
+           
         }
     }
 }
