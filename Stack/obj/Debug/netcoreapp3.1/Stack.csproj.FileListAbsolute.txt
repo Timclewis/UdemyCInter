@@ -1,0 +1,12 @@
+/Users/timothylewis/Projects/CsInter/Stack/bin/Debug/netcoreapp3.1/Stack.deps.json
+/Users/timothylewis/Projects/CsInter/Stack/bin/Debug/netcoreapp3.1/Stack.runtimeconfig.json
+/Users/timothylewis/Projects/CsInter/Stack/bin/Debug/netcoreapp3.1/Stack.runtimeconfig.dev.json
+/Users/timothylewis/Projects/CsInter/Stack/bin/Debug/netcoreapp3.1/Stack.dll
+/Users/timothylewis/Projects/CsInter/Stack/bin/Debug/netcoreapp3.1/Stack.pdb
+/Users/timothylewis/Projects/CsInter/Stack/obj/Debug/netcoreapp3.1/Stack.csprojAssemblyReference.cache
+/Users/timothylewis/Projects/CsInter/Stack/obj/Debug/netcoreapp3.1/Stack.AssemblyInfoInputs.cache
+/Users/timothylewis/Projects/CsInter/Stack/obj/Debug/netcoreapp3.1/Stack.AssemblyInfo.cs
+/Users/timothylewis/Projects/CsInter/Stack/obj/Debug/netcoreapp3.1/Stack.csproj.CoreCompileInputs.cache
+/Users/timothylewis/Projects/CsInter/Stack/obj/Debug/netcoreapp3.1/Stack.dll
+/Users/timothylewis/Projects/CsInter/Stack/obj/Debug/netcoreapp3.1/Stack.pdb
+/Users/timothylewis/Projects/CsInter/Stack/obj/Debug/netcoreapp3.1/Stack.genruntimeconfig.cache

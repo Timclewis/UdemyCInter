@@ -1,0 +1,12 @@
+/Users/timothylewis/Projects/CsInter/Fields/bin/Debug/netcoreapp3.1/Fields.deps.json
+/Users/timothylewis/Projects/CsInter/Fields/bin/Debug/netcoreapp3.1/Fields.runtimeconfig.json
+/Users/timothylewis/Projects/CsInter/Fields/bin/Debug/netcoreapp3.1/Fields.runtimeconfig.dev.json
+/Users/timothylewis/Projects/CsInter/Fields/bin/Debug/netcoreapp3.1/Fields.dll
+/Users/timothylewis/Projects/CsInter/Fields/bin/Debug/netcoreapp3.1/Fields.pdb
+/Users/timothylewis/Projects/CsInter/Fields/obj/Debug/netcoreapp3.1/Fields.csprojAssemblyReference.cache
+/Users/timothylewis/Projects/CsInter/Fields/obj/Debug/netcoreapp3.1/Fields.AssemblyInfoInputs.cache
+/Users/timothylewis/Projects/CsInter/Fields/obj/Debug/netcoreapp3.1/Fields.AssemblyInfo.cs
+/Users/timothylewis/Projects/CsInter/Fields/obj/Debug/netcoreapp3.1/Fields.csproj.CoreCompileInputs.cache
+/Users/timothylewis/Projects/CsInter/Fields/obj/Debug/netcoreapp3.1/Fields.dll
+/Users/timothylewis/Projects/CsInter/Fields/obj/Debug/netcoreapp3.1/Fields.pdb
+/Users/timothylewis/Projects/CsInter/Fields/obj/Debug/netcoreapp3.1/Fields.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/timothylewis/Projects/CsInter/Methods/obj/Debug/netcoreapp3.1/Methods.csprojAssemblyReference.cache
+/Users/timothylewis/Projects/CsInter/Methods/obj/Debug/netcoreapp3.1/Methods.AssemblyInfoInputs.cache
+/Users/timothylewis/Projects/CsInter/Methods/obj/Debug/netcoreapp3.1/Methods.AssemblyInfo.cs
+/Users/timothylewis/Projects/CsInter/Methods/obj/Debug/netcoreapp3.1/Methods.csproj.CoreCompileInputs.cache
+/Users/timothylewis/Projects/CsInter/Methods/bin/Debug/netcoreapp3.1/Methods.deps.json
+/Users/timothylewis/Projects/CsInter/Methods/bin/Debug/netcoreapp3.1/Methods.runtimeconfig.json
+/Users/timothylewis/Projects/CsInter/Methods/bin/Debug/netcoreapp3.1/Methods.runtimeconfig.dev.json
+/Users/timothylewis/Projects/CsInter/Methods/bin/Debug/netcoreapp3.1/Methods.dll
+/Users/timothylewis/Projects/CsInter/Methods/bin/Debug/netcoreapp3.1/Methods.pdb
+/Users/timothylewis/Projects/CsInter/Methods/obj/Debug/netcoreapp3.1/Methods.dll
+/Users/timothylewis/Projects/CsInter/Methods/obj/Debug/netcoreapp3.1/Methods.pdb
+/Users/timothylewis/Projects/CsInter/Methods/obj/Debug/netcoreapp3.1/Methods.genruntimeconfig.cache

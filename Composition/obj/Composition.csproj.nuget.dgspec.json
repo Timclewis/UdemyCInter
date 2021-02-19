@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/timothylewis/Projects/CsInter/Composition/Composition.csproj": {}
+  },
+  "projects": {
+    "/Users/timothylewis/Projects/CsInter/Composition/Composition.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/timothylewis/Projects/CsInter/Composition/Composition.csproj",
+        "projectName": "Composition",
+        "projectPath": "/Users/timothylewis/Projects/CsInter/Composition/Composition.csproj",
+        "packagesPath": "/Users/timothylewis/.nuget/packages/",
+        "outputPath": "/Users/timothylewis/Projects/CsInter/Composition/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/timothylewis/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

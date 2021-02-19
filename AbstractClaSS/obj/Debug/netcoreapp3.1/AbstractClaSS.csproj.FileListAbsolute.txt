@@ -1,0 +1,12 @@
+/Users/timothylewis/Projects/CsInter/AbstractClaSS/bin/Debug/netcoreapp3.1/AbstractClaSS.deps.json
+/Users/timothylewis/Projects/CsInter/AbstractClaSS/bin/Debug/netcoreapp3.1/AbstractClaSS.runtimeconfig.json
+/Users/timothylewis/Projects/CsInter/AbstractClaSS/bin/Debug/netcoreapp3.1/AbstractClaSS.runtimeconfig.dev.json
+/Users/timothylewis/Projects/CsInter/AbstractClaSS/bin/Debug/netcoreapp3.1/AbstractClaSS.dll
+/Users/timothylewis/Projects/CsInter/AbstractClaSS/bin/Debug/netcoreapp3.1/AbstractClaSS.pdb
+/Users/timothylewis/Projects/CsInter/AbstractClaSS/obj/Debug/netcoreapp3.1/AbstractClaSS.csprojAssemblyReference.cache
+/Users/timothylewis/Projects/CsInter/AbstractClaSS/obj/Debug/netcoreapp3.1/AbstractClaSS.AssemblyInfoInputs.cache
+/Users/timothylewis/Projects/CsInter/AbstractClaSS/obj/Debug/netcoreapp3.1/AbstractClaSS.AssemblyInfo.cs
+/Users/timothylewis/Projects/CsInter/AbstractClaSS/obj/Debug/netcoreapp3.1/AbstractClaSS.csproj.CoreCompileInputs.cache
+/Users/timothylewis/Projects/CsInter/AbstractClaSS/obj/Debug/netcoreapp3.1/AbstractClaSS.dll
+/Users/timothylewis/Projects/CsInter/AbstractClaSS/obj/Debug/netcoreapp3.1/AbstractClaSS.pdb
+/Users/timothylewis/Projects/CsInter/AbstractClaSS/obj/Debug/netcoreapp3.1/AbstractClaSS.genruntimeconfig.cache

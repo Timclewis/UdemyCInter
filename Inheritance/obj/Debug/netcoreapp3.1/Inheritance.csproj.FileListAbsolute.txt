@@ -1,0 +1,12 @@
+/Users/timothylewis/Projects/CsInter/Inheritance/bin/Debug/netcoreapp3.1/Inheritance.deps.json
+/Users/timothylewis/Projects/CsInter/Inheritance/bin/Debug/netcoreapp3.1/Inheritance.runtimeconfig.json
+/Users/timothylewis/Projects/CsInter/Inheritance/bin/Debug/netcoreapp3.1/Inheritance.runtimeconfig.dev.json
+/Users/timothylewis/Projects/CsInter/Inheritance/bin/Debug/netcoreapp3.1/Inheritance.dll
+/Users/timothylewis/Projects/CsInter/Inheritance/bin/Debug/netcoreapp3.1/Inheritance.pdb
+/Users/timothylewis/Projects/CsInter/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.csprojAssemblyReference.cache
+/Users/timothylewis/Projects/CsInter/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.AssemblyInfoInputs.cache
+/Users/timothylewis/Projects/CsInter/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.AssemblyInfo.cs
+/Users/timothylewis/Projects/CsInter/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.csproj.CoreCompileInputs.cache
+/Users/timothylewis/Projects/CsInter/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.dll
+/Users/timothylewis/Projects/CsInter/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.pdb
+/Users/timothylewis/Projects/CsInter/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/timothylewis/Projects/CsInter/Properties/obj/Debug/netcoreapp3.1/Properties.csprojAssemblyReference.cache
+/Users/timothylewis/Projects/CsInter/Properties/obj/Debug/netcoreapp3.1/Properties.AssemblyInfoInputs.cache
+/Users/timothylewis/Projects/CsInter/Properties/obj/Debug/netcoreapp3.1/Properties.AssemblyInfo.cs
+/Users/timothylewis/Projects/CsInter/Properties/obj/Debug/netcoreapp3.1/Properties.csproj.CoreCompileInputs.cache
+/Users/timothylewis/Projects/CsInter/Properties/bin/Debug/netcoreapp3.1/Properties.deps.json
+/Users/timothylewis/Projects/CsInter/Properties/bin/Debug/netcoreapp3.1/Properties.runtimeconfig.json
+/Users/timothylewis/Projects/CsInter/Properties/bin/Debug/netcoreapp3.1/Properties.runtimeconfig.dev.json
+/Users/timothylewis/Projects/CsInter/Properties/bin/Debug/netcoreapp3.1/Properties.dll
+/Users/timothylewis/Projects/CsInter/Properties/bin/Debug/netcoreapp3.1/Properties.pdb
+/Users/timothylewis/Projects/CsInter/Properties/obj/Debug/netcoreapp3.1/Properties.dll
+/Users/timothylewis/Projects/CsInter/Properties/obj/Debug/netcoreapp3.1/Properties.pdb
+/Users/timothylewis/Projects/CsInter/Properties/obj/Debug/netcoreapp3.1/Properties.genruntimeconfig.cache

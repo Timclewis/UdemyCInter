@@ -1,0 +1,12 @@
+/Users/timothylewis/Projects/CsInter/Access/bin/Debug/netcoreapp3.1/Access.deps.json
+/Users/timothylewis/Projects/CsInter/Access/bin/Debug/netcoreapp3.1/Access.runtimeconfig.json
+/Users/timothylewis/Projects/CsInter/Access/bin/Debug/netcoreapp3.1/Access.runtimeconfig.dev.json
+/Users/timothylewis/Projects/CsInter/Access/bin/Debug/netcoreapp3.1/Access.dll
+/Users/timothylewis/Projects/CsInter/Access/bin/Debug/netcoreapp3.1/Access.pdb
+/Users/timothylewis/Projects/CsInter/Access/obj/Debug/netcoreapp3.1/Access.csprojAssemblyReference.cache
+/Users/timothylewis/Projects/CsInter/Access/obj/Debug/netcoreapp3.1/Access.AssemblyInfoInputs.cache
+/Users/timothylewis/Projects/CsInter/Access/obj/Debug/netcoreapp3.1/Access.AssemblyInfo.cs
+/Users/timothylewis/Projects/CsInter/Access/obj/Debug/netcoreapp3.1/Access.csproj.CoreCompileInputs.cache
+/Users/timothylewis/Projects/CsInter/Access/obj/Debug/netcoreapp3.1/Access.dll
+/Users/timothylewis/Projects/CsInter/Access/obj/Debug/netcoreapp3.1/Access.pdb
+/Users/timothylewis/Projects/CsInter/Access/obj/Debug/netcoreapp3.1/Access.genruntimeconfig.cache

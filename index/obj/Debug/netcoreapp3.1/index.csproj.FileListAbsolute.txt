@@ -1,0 +1,12 @@
+/Users/timothylewis/Projects/CsInter/index/bin/Debug/netcoreapp3.1/index.deps.json
+/Users/timothylewis/Projects/CsInter/index/bin/Debug/netcoreapp3.1/index.runtimeconfig.json
+/Users/timothylewis/Projects/CsInter/index/bin/Debug/netcoreapp3.1/index.runtimeconfig.dev.json
+/Users/timothylewis/Projects/CsInter/index/bin/Debug/netcoreapp3.1/index.dll
+/Users/timothylewis/Projects/CsInter/index/bin/Debug/netcoreapp3.1/index.pdb
+/Users/timothylewis/Projects/CsInter/index/obj/Debug/netcoreapp3.1/index.csprojAssemblyReference.cache
+/Users/timothylewis/Projects/CsInter/index/obj/Debug/netcoreapp3.1/index.AssemblyInfoInputs.cache
+/Users/timothylewis/Projects/CsInter/index/obj/Debug/netcoreapp3.1/index.AssemblyInfo.cs
+/Users/timothylewis/Projects/CsInter/index/obj/Debug/netcoreapp3.1/index.csproj.CoreCompileInputs.cache
+/Users/timothylewis/Projects/CsInter/index/obj/Debug/netcoreapp3.1/index.dll
+/Users/timothylewis/Projects/CsInter/index/obj/Debug/netcoreapp3.1/index.pdb
+/Users/timothylewis/Projects/CsInter/index/obj/Debug/netcoreapp3.1/index.genruntimeconfig.cache

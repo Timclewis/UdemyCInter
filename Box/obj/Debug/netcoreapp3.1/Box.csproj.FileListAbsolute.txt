@@ -1,0 +1,4 @@
+/Users/timothylewis/Projects/CsInter/Box/obj/Debug/netcoreapp3.1/Box.csprojAssemblyReference.cache
+/Users/timothylewis/Projects/CsInter/Box/obj/Debug/netcoreapp3.1/Box.AssemblyInfoInputs.cache
+/Users/timothylewis/Projects/CsInter/Box/obj/Debug/netcoreapp3.1/Box.AssemblyInfo.cs
+/Users/timothylewis/Projects/CsInter/Box/obj/Debug/netcoreapp3.1/Box.csproj.CoreCompileInputs.cache

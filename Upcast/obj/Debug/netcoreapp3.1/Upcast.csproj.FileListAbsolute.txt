@@ -1,0 +1,11 @@
+/Users/timothylewis/Projects/CsInter/Upcast/bin/Debug/netcoreapp3.1/Upcast.deps.json
+/Users/timothylewis/Projects/CsInter/Upcast/bin/Debug/netcoreapp3.1/Upcast.runtimeconfig.json
+/Users/timothylewis/Projects/CsInter/Upcast/bin/Debug/netcoreapp3.1/Upcast.runtimeconfig.dev.json
+/Users/timothylewis/Projects/CsInter/Upcast/bin/Debug/netcoreapp3.1/Upcast.dll
+/Users/timothylewis/Projects/CsInter/Upcast/bin/Debug/netcoreapp3.1/Upcast.pdb
+/Users/timothylewis/Projects/CsInter/Upcast/obj/Debug/netcoreapp3.1/Upcast.AssemblyInfoInputs.cache
+/Users/timothylewis/Projects/CsInter/Upcast/obj/Debug/netcoreapp3.1/Upcast.AssemblyInfo.cs
+/Users/timothylewis/Projects/CsInter/Upcast/obj/Debug/netcoreapp3.1/Upcast.csproj.CoreCompileInputs.cache
+/Users/timothylewis/Projects/CsInter/Upcast/obj/Debug/netcoreapp3.1/Upcast.dll
+/Users/timothylewis/Projects/CsInter/Upcast/obj/Debug/netcoreapp3.1/Upcast.pdb
+/Users/timothylewis/Projects/CsInter/Upcast/obj/Debug/netcoreapp3.1/Upcast.genruntimeconfig.cache

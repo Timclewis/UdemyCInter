@@ -1,0 +1,12 @@
+/Users/timothylewis/Projects/CsInter/Composition/bin/Debug/netcoreapp3.1/Composition.deps.json
+/Users/timothylewis/Projects/CsInter/Composition/bin/Debug/netcoreapp3.1/Composition.runtimeconfig.json
+/Users/timothylewis/Projects/CsInter/Composition/bin/Debug/netcoreapp3.1/Composition.runtimeconfig.dev.json
+/Users/timothylewis/Projects/CsInter/Composition/bin/Debug/netcoreapp3.1/Composition.dll
+/Users/timothylewis/Projects/CsInter/Composition/bin/Debug/netcoreapp3.1/Composition.pdb
+/Users/timothylewis/Projects/CsInter/Composition/obj/Debug/netcoreapp3.1/Composition.csprojAssemblyReference.cache
+/Users/timothylewis/Projects/CsInter/Composition/obj/Debug/netcoreapp3.1/Composition.AssemblyInfoInputs.cache
+/Users/timothylewis/Projects/CsInter/Composition/obj/Debug/netcoreapp3.1/Composition.AssemblyInfo.cs
+/Users/timothylewis/Projects/CsInter/Composition/obj/Debug/netcoreapp3.1/Composition.csproj.CoreCompileInputs.cache
+/Users/timothylewis/Projects/CsInter/Composition/obj/Debug/netcoreapp3.1/Composition.dll
+/Users/timothylewis/Projects/CsInter/Composition/obj/Debug/netcoreapp3.1/Composition.pdb
+/Users/timothylewis/Projects/CsInter/Composition/obj/Debug/netcoreapp3.1/Composition.genruntimeconfig.cache

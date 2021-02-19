@@ -1,0 +1,12 @@
+/Users/timothylewis/Projects/CsInter/MethoOverride/bin/Debug/netcoreapp3.1/MethoOverride.deps.json
+/Users/timothylewis/Projects/CsInter/MethoOverride/bin/Debug/netcoreapp3.1/MethoOverride.runtimeconfig.json
+/Users/timothylewis/Projects/CsInter/MethoOverride/bin/Debug/netcoreapp3.1/MethoOverride.runtimeconfig.dev.json
+/Users/timothylewis/Projects/CsInter/MethoOverride/bin/Debug/netcoreapp3.1/MethoOverride.dll
+/Users/timothylewis/Projects/CsInter/MethoOverride/bin/Debug/netcoreapp3.1/MethoOverride.pdb
+/Users/timothylewis/Projects/CsInter/MethoOverride/obj/Debug/netcoreapp3.1/MethoOverride.csprojAssemblyReference.cache
+/Users/timothylewis/Projects/CsInter/MethoOverride/obj/Debug/netcoreapp3.1/MethoOverride.AssemblyInfoInputs.cache
+/Users/timothylewis/Projects/CsInter/MethoOverride/obj/Debug/netcoreapp3.1/MethoOverride.AssemblyInfo.cs
+/Users/timothylewis/Projects/CsInter/MethoOverride/obj/Debug/netcoreapp3.1/MethoOverride.csproj.CoreCompileInputs.cache
+/Users/timothylewis/Projects/CsInter/MethoOverride/obj/Debug/netcoreapp3.1/MethoOverride.dll
+/Users/timothylewis/Projects/CsInter/MethoOverride/obj/Debug/netcoreapp3.1/MethoOverride.pdb
+/Users/timothylewis/Projects/CsInter/MethoOverride/obj/Debug/netcoreapp3.1/MethoOverride.genruntimeconfig.cache

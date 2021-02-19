@@ -1,0 +1,12 @@
+/Users/timothylewis/Projects/CsInter/Workflow/bin/Debug/netcoreapp3.1/Workflow.deps.json
+/Users/timothylewis/Projects/CsInter/Workflow/bin/Debug/netcoreapp3.1/Workflow.runtimeconfig.json
+/Users/timothylewis/Projects/CsInter/Workflow/bin/Debug/netcoreapp3.1/Workflow.runtimeconfig.dev.json
+/Users/timothylewis/Projects/CsInter/Workflow/bin/Debug/netcoreapp3.1/Workflow.dll
+/Users/timothylewis/Projects/CsInter/Workflow/bin/Debug/netcoreapp3.1/Workflow.pdb
+/Users/timothylewis/Projects/CsInter/Workflow/obj/Debug/netcoreapp3.1/Workflow.csprojAssemblyReference.cache
+/Users/timothylewis/Projects/CsInter/Workflow/obj/Debug/netcoreapp3.1/Workflow.AssemblyInfoInputs.cache
+/Users/timothylewis/Projects/CsInter/Workflow/obj/Debug/netcoreapp3.1/Workflow.AssemblyInfo.cs
+/Users/timothylewis/Projects/CsInter/Workflow/obj/Debug/netcoreapp3.1/Workflow.csproj.CoreCompileInputs.cache
+/Users/timothylewis/Projects/CsInter/Workflow/obj/Debug/netcoreapp3.1/Workflow.dll
+/Users/timothylewis/Projects/CsInter/Workflow/obj/Debug/netcoreapp3.1/Workflow.pdb
+/Users/timothylewis/Projects/CsInter/Workflow/obj/Debug/netcoreapp3.1/Workflow.genruntimeconfig.cache

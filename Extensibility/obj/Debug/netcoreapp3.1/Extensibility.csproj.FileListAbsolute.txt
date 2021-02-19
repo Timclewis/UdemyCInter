@@ -1,0 +1,12 @@
+/Users/timothylewis/Projects/CsInter/Extensibility/bin/Debug/netcoreapp3.1/Extensibility.deps.json
+/Users/timothylewis/Projects/CsInter/Extensibility/bin/Debug/netcoreapp3.1/Extensibility.runtimeconfig.json
+/Users/timothylewis/Projects/CsInter/Extensibility/bin/Debug/netcoreapp3.1/Extensibility.runtimeconfig.dev.json
+/Users/timothylewis/Projects/CsInter/Extensibility/bin/Debug/netcoreapp3.1/Extensibility.dll
+/Users/timothylewis/Projects/CsInter/Extensibility/bin/Debug/netcoreapp3.1/Extensibility.pdb
+/Users/timothylewis/Projects/CsInter/Extensibility/obj/Debug/netcoreapp3.1/Extensibility.csprojAssemblyReference.cache
+/Users/timothylewis/Projects/CsInter/Extensibility/obj/Debug/netcoreapp3.1/Extensibility.AssemblyInfoInputs.cache
+/Users/timothylewis/Projects/CsInter/Extensibility/obj/Debug/netcoreapp3.1/Extensibility.AssemblyInfo.cs
+/Users/timothylewis/Projects/CsInter/Extensibility/obj/Debug/netcoreapp3.1/Extensibility.csproj.CoreCompileInputs.cache
+/Users/timothylewis/Projects/CsInter/Extensibility/obj/Debug/netcoreapp3.1/Extensibility.dll
+/Users/timothylewis/Projects/CsInter/Extensibility/obj/Debug/netcoreapp3.1/Extensibility.pdb
+/Users/timothylewis/Projects/CsInter/Extensibility/obj/Debug/netcoreapp3.1/Extensibility.genruntimeconfig.cache
